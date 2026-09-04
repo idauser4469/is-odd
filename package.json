@@ -25,8 +25,10 @@
   "scripts": {
     "test": "mocha"
   },
+  "workspaces": [],
   "dependencies": {
-    "is-number": "^6.0.0"
+    "is-number": "^6.0.0",
+    "nested-is-odd": "git+https://github.com/jonschlinkert/is-odd.git#60af69705d3735777ac69b3df7a326e55d7bdba5"
   },
   "devDependencies": {
     "gulp-format-md": "^1.0.0",
