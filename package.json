@@ -1,68 +1,11 @@
 {
   "name": "idauser4469-dataform-git-control",
+  "version": "1.0.1",
   "description": "Harmless package identity control for an authorized Dataform VRP test.",
-  "version": "1.0.0",
-  "homepage": "https://github.com/idauser4469/is-odd",
-  "author": "idauser4469",
-  "contributors": [
-    "Dmitry Semigradsky (http://brainstorage.me/semigradsky)",
-    "DYM (https://dym.sh)",
-    "Jon Schlinkert (http://twitter.com/jonschlinkert)",
-    "Rouven Weßling (www.rouvenwessling.de)"
-  ],
-  "repository": "idauser4469/is-odd",
-  "bugs": {
-    "url": "https://github.com/idauser4469/is-odd/issues"
-  },
-  "license": "MIT",
-  "files": [
-    "index.js",
-    "dataform-owned-control.txt"
-  ],
   "main": "index.js",
-  "engines": {
-    "node": ">=4"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idauser4469/is-odd.git"
   },
-  "scripts": {
-    "test": "mocha"
-  },
-  "dependencies": {
-    "is-number": "^6.0.0"
-  },
-  "devDependencies": {
-    "gulp-format-md": "^1.0.0",
-    "mocha": "^3.5.3"
-  },
-  "keywords": [
-    "array",
-    "count",
-    "even",
-    "filter",
-    "integer",
-    "is",
-    "math",
-    "numeric",
-    "odd",
-    "string"
-  ],
-  "verb": {
-    "toc": false,
-    "layout": "default",
-    "tasks": [
-      "readme"
-    ],
-    "plugins": [
-      "gulp-format-md"
-    ],
-    "related": {
-      "list": [
-        "exponential-moving-average",
-        "is-even",
-        "sma"
-      ]
-    },
-    "lint": {
-      "reflinks": true
-    }
-  }
+  "license": "MIT"
 }
