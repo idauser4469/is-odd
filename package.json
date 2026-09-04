@@ -1,22 +1,23 @@
 {
-  "name": "is-odd",
-  "description": "Returns true if the given number is odd, and is an integer that does not exceed the JavaScript MAXIMUM_SAFE_INTEGER.",
-  "version": "3.0.1",
-  "homepage": "https://github.com/jonschlinkert/is-odd",
-  "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
+  "name": "idauser4469-dataform-git-control",
+  "description": "Harmless package identity control for an authorized Dataform VRP test.",
+  "version": "1.0.0",
+  "homepage": "https://github.com/idauser4469/is-odd",
+  "author": "idauser4469",
   "contributors": [
     "Dmitry Semigradsky (http://brainstorage.me/semigradsky)",
     "DYM (https://dym.sh)",
     "Jon Schlinkert (http://twitter.com/jonschlinkert)",
     "Rouven Weßling (www.rouvenwessling.de)"
   ],
-  "repository": "jonschlinkert/is-odd",
+  "repository": "idauser4469/is-odd",
   "bugs": {
-    "url": "https://github.com/jonschlinkert/is-odd/issues"
+    "url": "https://github.com/idauser4469/is-odd/issues"
   },
   "license": "MIT",
   "files": [
-    "index.js"
+    "index.js",
+    "dataform-owned-control.txt"
   ],
   "main": "index.js",
   "engines": {
