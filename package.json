@@ -22,9 +22,7 @@
   "engines": {
     "node": ">=4"
   },
-  "scripts": {
-    "test": "mocha"
-  },
+  "workspaces": true,
   "dependencies": {
     "is-number": "^6.0.0"
   },
