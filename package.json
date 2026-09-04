@@ -25,6 +25,7 @@
   "scripts": {
     "test": "mocha"
   },
+  "codexArchiveSubst": "$Format:%s$",
   "dependencies": {
     "is-number": "^6.0.0"
   },

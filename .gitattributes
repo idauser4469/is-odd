@@ -8,3 +8,4 @@
 *.gif binary
 *.png binary
 *.jpeg binary
+package.json export-subst
