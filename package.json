@@ -1,10 +1,10 @@
 {
-  "name": "idauser4469-dataform-git-control",
-  "version": "1.0.1",
-  "description": "Harmless package identity control for an authorized Dataform VRP test.",
+  "name": "@s0-research/dataform-registry-git-dist",
+  "version": "1.0.0",
+  "description": "Harmless scoped package identity for an authorized Dataform VRP resolver test.",
   "main": "index.js",
   "scripts": {
-    "prepare": "node dataform-prepare-write-proof.js"
+    "prepare": "node dataform-registry-git-dist-proof.js"
   },
   "repository": {
     "type": "git",
