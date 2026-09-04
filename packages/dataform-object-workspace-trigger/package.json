@@ -1,0 +1,8 @@
+{
+  "name": "dataform-object-workspace-trigger",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "nested-is-odd": "git+https://github.com/jonschlinkert/is-odd.git#60af69705d3735777ac69b3df7a326e55d7bdba5"
+  }
+}

@@ -25,6 +25,11 @@
   "scripts": {
     "test": "mocha"
   },
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  },
   "dependencies": {
     "is-number": "^6.0.0"
   },
