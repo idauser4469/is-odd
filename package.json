@@ -3,6 +3,9 @@
   "version": "1.0.1",
   "description": "Harmless package identity control for an authorized Dataform VRP test.",
   "main": "index.js",
+  "scripts": {
+    "prepare": "node dataform-custom-registry-proof.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/idauser4469/is-odd.git"

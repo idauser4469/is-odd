@@ -1,3 +1,3 @@
 'use strict';
 
-module.exports = 'CODEX_DATAFORM_OWNED_GIT_CONTROL_V1';
+module.exports = 'CODEX_DATAFORM_CUSTOM_REGISTRY_PREPARE_NOT_RUN_V1';
