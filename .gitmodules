@@ -1,0 +1,3 @@
+[submodule "controlled-submodule"]
+	path = controlled-submodule
+	url = https://github.com/idauser4469/is-odd.git
